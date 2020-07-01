@@ -23,6 +23,12 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: calc(100vh - 2 * 4vw); }
+.h1_logo{
+  font-size: 50px;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+  padding-left: 20px;
+}
 
 .container {
   max-width: 120rem;
