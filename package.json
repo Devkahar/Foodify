@@ -24,7 +24,7 @@
     "babel-polyfill": "^6.26.0",
     "core-js": "^3.6.5",
     "fractional": "^1.0.0",
-    "mathjs": "^7.0.1",
+    "mathjs": "^7.5.1",
     "regenerator-runtime": "^0.13.5",
     "uniqid": "^5.2.0"
   }
